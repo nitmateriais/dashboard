@@ -12,4 +12,4 @@ Para rodar é necessário instalar: 1) Web server; 2) Interpretador do PHP. Uma 
 
 #IMPORTANTE#
 
-Os arquivos JSON (projeto do Luís Gustavo Maschietto) são utilizados em: 1) "controller/monta_json.php"; 2) "graficos/grafo.php"; 3) "graficos/matriz.php". Futuramente esses arquivos JSON serão substituídos por chamadas para API's.
+Os arquivos JSON (projeto do Luís Gustavo Maschietto) estão no diretório "controller" ("coautoria_pesquisadores.json" e "publicacoes_article_conference.json") e são utilizados em: 1) "controller/monta_json.php"; 2) "graficos/grafo.php"; 3) "graficos/matriz.php". Futuramente esses arquivos JSON serão substituídos por chamadas para API's.

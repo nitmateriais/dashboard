@@ -1,0 +1,462 @@
+{
+	"nodes": [{
+		"nome": "Jose Antonio Eiras",
+		"qtde_artigos": 950,
+		"idlattes": "6653223814715498",
+		"depto": "Departamento de Física"
+	}, {
+		"nome": "Walter José Botta Filho",
+		"qtde_artigos": 916,
+		"idlattes": "8956458007749112",
+		"depto": "Departamento de Engenharia de Materiais"
+	}, {
+		"nome": "João Batista Fernandes",
+		"qtde_artigos": 902,
+		"idlattes": "2691336077459602",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Elson Longo da Silva",
+		"qtde_artigos": 897,
+		"idlattes": "9848311210578810",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Orlando Fatibello Filho",
+		"qtde_artigos": 872,
+		"idlattes": "9859737944357808",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Paulo Cezar Vieira",
+		"qtde_artigos": 785,
+		"idlattes": "8923844563320377",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Maria Fatima das Graças Fernandes da Silva",
+		"qtde_artigos": 748,
+		"idlattes": "0457632122660653",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Claudio Shyinti Kiminami",
+		"qtde_artigos": 728,
+		"idlattes": "5443002033733395",
+		"depto": "Departamento de Engenharia de Materiais"
+	}, {
+		"nome": "Jose Teixeira Freire",
+		"qtde_artigos": 670,
+		"idlattes": "2270677706718167",
+		"depto": "Departamento de Engenharia Química"
+	}, {
+		"nome": "Anselmo Ortega Boschi",
+		"qtde_artigos": 668,
+		"idlattes": "3259846931278607",
+		"depto": "Departamento de Engenharia de Materiais"
+	}, {
+		"nome": "Ruth Herta Goldschmidt Aliaga Kiminami",
+		"qtde_artigos": 643,
+		"idlattes": "7643216999108223",
+		"depto": "Departamento de Engenharia de Materiais"
+	}, {
+		"nome": "Aparecida Maria Catai",
+		"qtde_artigos": 629,
+		"idlattes": "5801652590531684",
+		"depto": "Departamento de Fisioterapia"
+	}, {
+		"nome": "Joaquim de Araújo Nóbrega",
+		"qtde_artigos": 624,
+		"idlattes": "8833989058164529",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Edson Roberto Leite",
+		"qtde_artigos": 610,
+		"idlattes": "1025598529469393",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Julio Zukerman Schpector",
+		"qtde_artigos": 598,
+		"idlattes": "4252331837170383",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Claudemiro Bolfarini",
+		"qtde_artigos": 591,
+		"idlattes": "9231627080617037",
+		"depto": "Departamento de Engenharia de Materiais"
+	}, {
+		"nome": "Ducinei Garcia",
+		"qtde_artigos": 584,
+		"idlattes": "5236758856687873",
+		"depto": "Departamento de Física"
+	}, {
+		"nome": "Audrey Borghi e Silva",
+		"qtde_artigos": 577,
+		"idlattes": "4855616925791895",
+		"depto": "Departamento de Fisioterapia"
+	}, {
+		"nome": "Marisa Narciso Fernandes",
+		"qtde_artigos": 572,
+		"idlattes": "3021357484136942",
+		"depto": "Departamento de Ciências Fisiológicas"
+	}, {
+		"nome": "Pedro Manoel Galetti Junior",
+		"qtde_artigos": 565,
+		"idlattes": "7398754661670478",
+		"depto": "Departamento de Genética e Evolução"
+	}, {
+		"nome": "Orlando Moreira Filho",
+		"qtde_artigos": 545,
+		"idlattes": "3927076022470557",
+		"depto": "Departamento de Genética e Evolução"
+	}, {
+		"nome": "Zilda Aparecida Pereira Del Prette",
+		"qtde_artigos": 531,
+		"idlattes": "8113238388739093",
+		"depto": "Departamento de Psicologia"
+	}, {
+		"nome": "Antonio Gilberto Ferreira",
+		"qtde_artigos": 504,
+		"idlattes": "3676462220401452",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Eniceia Gonçalves Mendes",
+		"qtde_artigos": 490,
+		"idlattes": "3897627554738983",
+		"depto": "Departamento de Psicologia"
+	}, {
+		"nome": "Maria Cristina P Innocentini Hayashi",
+		"qtde_artigos": 484,
+		"idlattes": "7263318849588556",
+		"depto": "Departamento de Ciência da Informação"
+	}, {
+		"nome": "Ernesto Chaves Pereira de Souza",
+		"qtde_artigos": 480,
+		"idlattes": "1505400360366643",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Edson Rodrigues Filho",
+		"qtde_artigos": 470,
+		"idlattes": "3667941735597178",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Angélica Maria Penteado Martins Dias",
+		"qtde_artigos": 470,
+		"idlattes": "8637344058859147",
+		"depto": "Departamento de Ecologia e Biologia Evolutiva"
+	}, {
+		"nome": "Márcio Raymundo Morelli",
+		"qtde_artigos": 466,
+		"idlattes": "0172837599844991",
+		"depto": "Departamento de Engenharia de Materiais"
+	}, {
+		"nome": "Raquel de Lima Camargo Giordano",
+		"qtde_artigos": 463,
+		"idlattes": "9695542424889786",
+		"depto": "Departamento de Engenharia Química"
+	}, {
+		"nome": "Jose Renato Coury",
+		"qtde_artigos": 445,
+		"idlattes": "8156854796793004",
+		"depto": "Departamento de Engenharia Química"
+	}, {
+		"nome": "Roberto de Campos Giordano",
+		"qtde_artigos": 442,
+		"idlattes": "0834668419587001",
+		"depto": "Departamento de Engenharia Química"
+	}, {
+		"nome": "Maria Amelia Almeida",
+		"qtde_artigos": 435,
+		"idlattes": "0316944549621648",
+		"depto": "Departamento de Psicologia"
+	}, {
+		"nome": "Luiz Antonio Carlos Bertollo",
+		"qtde_artigos": 434,
+		"idlattes": "7069073110550804",
+		"depto": "Departamento de Genética e Evolução"
+	}, {
+		"nome": "Lucia Cavalcanti de Albuquerque Williams",
+		"qtde_artigos": 433,
+		"idlattes": "6962646759651464",
+		"depto": "Departamento de Psicologia"
+	}, {
+		"nome": "Sofia Cristina Iost Pavarini",
+		"qtde_artigos": 431,
+		"idlattes": "1983620301963081",
+		"depto": "Departamento de Gerontologia"
+	}, {
+		"nome": "Jose Carlos de Toledo",
+		"qtde_artigos": 427,
+		"idlattes": "9421627326330417",
+		"depto": "Departamento de Engenharia de Produção"
+	}, {
+		"nome": "Pedro Augusto de Paula Nascente",
+		"qtde_artigos": 424,
+		"idlattes": "1387043320265189",
+		"depto": "Departamento de Engenharia de Materiais"
+	}, {
+		"nome": "Romeu Cardozo Rocha Filho",
+		"qtde_artigos": 415,
+		"idlattes": "5200717413563550",
+		"depto": "Departamento de Química"
+	}, {
+		"nome": "Francisco Tadeu Rantin",
+		"qtde_artigos": 410,
+		"idlattes": "3546242299713690",
+		"depto": "Departamento de Ciências Fisiológicas"
+	}, {
+		"nome": "Reinaldo Morabito Neto",
+		"qtde_artigos": 406,
+		"idlattes": "4194801952934254",
+		"depto": "Departamento de Engenharia de Produção"
+	}, {
+		"nome": "Victor Carlos Pandolfelli",
+		"qtde_artigos": 406,
+		"idlattes": "7369376873984839",
+		"depto": "Departamento de Engenharia de Materiais"
+	}, {
+		"nome": "Dilson Cardoso",
+		"qtde_artigos": 400,
+		"idlattes": "2462847535959232",
+		"depto": "Departamento de Engenharia Química"
+	}, {
+		"nome": "Sonia Cristina Juliano Gualtieri",
+		"qtde_artigos": 400,
+		"idlattes": "9973185407856723",
+		"depto": "Departamento de Botânica"
+	}, {
+		"nome": "Eloisa Tudella",
+		"qtde_artigos": 399,
+		"idlattes": "3207258034860219",
+		"depto": "Departamento de Fisioterapia"
+	}, {
+		"nome": "Roseli Esquerdo Lopes",
+		"qtde_artigos": 395,
+		"idlattes": "1507752191797249",
+		"depto": "Departamento de Terapia Ocupacional"
+	}, {
+		"nome": "Mauricio Jamami",
+		"qtde_artigos": 395,
+		"idlattes": "4274129560250050",
+		"depto": "Departamento de Fisioterapia"
+	}, {
+		"nome": "Irineu Bianchini Junior",
+		"qtde_artigos": 390,
+		"idlattes": "0659731944736389",
+		"depto": "Departamento de Hidrobiologia"
+	}, {
+		"nome": "Aline Maria de Medeiros Rodrigues Reali",
+		"qtde_artigos": 377,
+		"idlattes": "3250195451890332",
+		"depto": "Departamento de Teorias e Práticas Pedagógicas"
+	}, {
+		"nome": "Alzir Azevedo Batista",
+		"qtde_artigos": 373,
+		"idlattes": "6469642481998660",
+		"depto": "Departamento de Química"
+	}],
+	"links": [{
+		"source": 0,
+		"target": 16,
+		"value": 506
+	}, {
+		"source": 1,
+		"target": 7,
+		"value": 453
+	}, {
+		"source": 1,
+		"target": 15,
+		"value": 344
+	}, {
+		"source": 2,
+		"target": 6,
+		"value": 671
+	}, {
+		"source": 2,
+		"target": 5,
+		"value": 650
+	}, {
+		"source": 2,
+		"target": 26,
+		"value": 197
+	}, {
+		"source": 2,
+		"target": 22,
+		"value": 77
+	}, {
+		"source": 3,
+		"target": 13,
+		"value": 420
+	}, {
+		"source": 4,
+		"target": 38,
+		"value": 74
+	}, {
+		"source": 5,
+		"target": 2,
+		"value": 650
+	}, {
+		"source": 5,
+		"target": 6,
+		"value": 614
+	}, {
+		"source": 5,
+		"target": 26,
+		"value": 173
+	}, {
+		"source": 5,
+		"target": 22,
+		"value": 61
+	}, {
+		"source": 6,
+		"target": 2,
+		"value": 671
+	}, {
+		"source": 6,
+		"target": 5,
+		"value": 614
+	}, {
+		"source": 6,
+		"target": 26,
+		"value": 191
+	}, {
+		"source": 6,
+		"target": 22,
+		"value": 58
+	}, {
+		"source": 7,
+		"target": 1,
+		"value": 453
+	}, {
+		"source": 7,
+		"target": 15,
+		"value": 450
+	}, {
+		"source": 10,
+		"target": 28,
+		"value": 156
+	}, {
+		"source": 10,
+		"target": 16,
+		"value": 47
+	}, {
+		"source": 11,
+		"target": 17,
+		"value": 176
+	}, {
+		"source": 13,
+		"target": 3,
+		"value": 420
+	}, {
+		"source": 15,
+		"target": 7,
+		"value": 450
+	}, {
+		"source": 15,
+		"target": 1,
+		"value": 344
+	}, {
+		"source": 16,
+		"target": 0,
+		"value": 506
+	}, {
+		"source": 16,
+		"target": 10,
+		"value": 47
+	}, {
+		"source": 17,
+		"target": 11,
+		"value": 176
+	}, {
+		"source": 18,
+		"target": 39,
+		"value": 78
+	}, {
+		"source": 18,
+		"target": 2,
+		"value": 32
+	}, {
+		"source": 19,
+		"target": 20,
+		"value": 51
+	}, {
+		"source": 19,
+		"target": 33,
+		"value": 41
+	}, {
+		"source": 20,
+		"target": 33,
+		"value": 168
+	}, {
+		"source": 20,
+		"target": 19,
+		"value": 51
+	}, {
+		"source": 22,
+		"target": 2,
+		"value": 77
+	}, {
+		"source": 22,
+		"target": 5,
+		"value": 61
+	}, {
+		"source": 22,
+		"target": 6,
+		"value": 58
+	}, {
+		"source": 22,
+		"target": 26,
+		"value": 40
+	}, {
+		"source": 23,
+		"target": 32,
+		"value": 22
+	}, {
+		"source": 26,
+		"target": 2,
+		"value": 197
+	}, {
+		"source": 26,
+		"target": 6,
+		"value": 191
+	}, {
+		"source": 26,
+		"target": 5,
+		"value": 173
+	}, {
+		"source": 26,
+		"target": 22,
+		"value": 40
+	}, {
+		"source": 28,
+		"target": 10,
+		"value": 156
+	}, {
+		"source": 29,
+		"target": 31,
+		"value": 212
+	}, {
+		"source": 31,
+		"target": 29,
+		"value": 212
+	}, {
+		"source": 32,
+		"target": 23,
+		"value": 22
+	}, {
+		"source": 33,
+		"target": 20,
+		"value": 168
+	}, {
+		"source": 33,
+		"target": 19,
+		"value": 41
+	}, {
+		"source": 38,
+		"target": 4,
+		"value": 74
+	}, {
+		"source": 39,
+		"target": 18,
+		"value": 78
+	}, {
+		"source": 41,
+		"target": 1,
+		"value": 37
+	}]
+}

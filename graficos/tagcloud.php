@@ -1,5 +1,5 @@
-<link href="https://cdnjs.cloudflare.com/ajax/libs/jqcloud/1.0.4/jqcloud.css" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jqcloud/1.0.4/jqcloud-1.0.4.js"></script>
+<link href="./vendor/jquery/jqcloud/1.0.4/jqcloud.css" rel="stylesheet">
+<script src="./vendor/jquery/jqcloud/1.0.4/jqcloud-1.0.4.js"></script>
 
 
 <div class="row">

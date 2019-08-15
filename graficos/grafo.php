@@ -60,9 +60,7 @@
 			      .data(graph.nodes)
 			      .enter().append("circle")
 			      .attr("class", "node")
-			      .attr("r", 5)
-			      .style("fill", function (d) { return color(d.depto); 
-			      })
+			      .style("fill", function (d) { return color(d.depto); })
 			      .attr("r", function (d) { return 1.1*Math.sqrt(d.qtde_artigos) + 1.5; })
 			      .call(force.drag);
 			  node.append("title")
@@ -73,8 +71,7 @@
 			        .attr("y1", function(d) { return d.source.y; })
 			        .attr("x2", function(d) { return d.target.x; })
 			        .attr("y2", function (d) { return d.target.y; })
-			        .attr("value", function (d) { return d.value;}) ;
-
+			        .attr("value", function (d) { return d.value;});
 			    node.attr("cx", function(d) { return d.x; })
 			        .attr("cy", function(d) { return d.y; });
 			  });

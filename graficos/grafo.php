@@ -32,8 +32,8 @@
 			var color = d3.scale.category20();
 
 			var force = d3.layout.force()
-			    .charge(-750)
-			    .linkDistance(250)
+			    .charge(-850)
+			    .linkDistance(200)
 			    .size([width, height]);
 
 			var svg = d3.select("p").append("svg")

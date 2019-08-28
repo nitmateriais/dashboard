@@ -6,7 +6,7 @@ Tecnologias utilizadas:
 2) PHP;
 3) D3.JS;
 4) Google Charts;
-5) jQuery.
+5) jQCloud/jQuery.
 
 Para rodar é necessário instalar: 1) Web server; 2) Interpretador do PHP. Uma opção é instalar o pacote XAMPP, que inclui o web server Apache juntamente com o PHP: https://www.apachefriends.org/pt_br/index.html . Após a instalação do Apache, faça o download do repositório "dashboard" (GitHub), descompacte (zip), renomeie a pasta para "dashboard" e mova para "C:\xampp\htdocs\" (caso esteja utilizando Windows). Abra um navegador e acesse o endereço "http://localhost/dashboard". Se o Dashboard não carregar, verifique se o servidor Apache está rodando.
 
